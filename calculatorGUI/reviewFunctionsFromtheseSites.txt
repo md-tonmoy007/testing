@@ -1,0 +1,4 @@
+1) https://www.programiz.com/python-programming/function
+2) https://www.programiz.com/python-programming/function-argument
+
+only read these two articles from programiz
